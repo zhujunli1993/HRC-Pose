@@ -1,0 +1,4 @@
+bottle: 44
+tv: 72
+keyboard: 76
+laptop: 73

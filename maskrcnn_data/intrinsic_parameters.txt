@@ -1,0 +1,6 @@
+#intrinsic camera parameters
+c_X = 324.8378935141304 # x coordinate of the optical center
+c_Y = 235.4308556036733 # y coordinate of the optical center
+f_X = 527.8716747158403 # x-focal length
+f_Y = 520.6781086489601 # y-focal length
+
